@@ -1,0 +1,35 @@
+{
+
+	"Mobiles":[
+		{"name":"Oneplus",
+	     "image":"img/1.jpg",
+	     "originalPrice":33000,
+	     "price":32000
+	    },
+	    {
+	     "name":"samsung A30",
+	     "image":"img/2.jpg",
+	     "originalPrice":14000,
+	     "price":12000
+	    },
+	    {
+	     "name":"micromax",
+	     "image":"img/3.jpg",
+	     "originalPrice":10000,
+	     "price":9000
+	    },
+	    {
+	     "name":"Apple SE",
+	     "image":"img/4.jpeg",
+	     "originalPrice":31000,
+	     "price":30000
+
+	    },
+	    {
+	     "name":"Realme 5 pro",
+	     "image":"img/5.jpg",
+	     "originalPrice":17000,
+	     "price":16000
+
+	    }]
+}
